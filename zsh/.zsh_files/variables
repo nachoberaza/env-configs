@@ -1,0 +1,6 @@
+# ---- PATH ---- #
+# Example:
+# export PATH="$PATH:$HOME/.rvm/bin"
+
+# --- GO ---
+# GOPATH=<your go path>

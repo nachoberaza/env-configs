@@ -1,0 +1,4 @@
+# Example aliases
+# alias zshconfig="mate ~/.zshrc"
+# alias ohmyzsh="mate ~/.oh-my-zsh"
+# alias utn="cd ~/Documents/Development/UTN_Projects"
